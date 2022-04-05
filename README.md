@@ -1,4 +1,4 @@
-# Base64 Encoder / Decoder for Albert
+# Base64 Encoder / Decoder for [Albert Launcher](https://github.com/albertlauncher)
 
 ## Installation in Albert Plugins
 
